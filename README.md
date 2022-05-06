@@ -8,7 +8,7 @@ Aqui dejo el link y una imagen del sitio Web.
 
 ![Image text](https://github.com/Oswaldoivann/Oswaldoivann.github.io/blob/main/Hackathon.png)
 
-#Inscribe a tu equipo
+# Inscribe a tu equipo
 
 
 by Os.
