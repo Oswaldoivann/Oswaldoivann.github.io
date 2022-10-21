@@ -2,7 +2,7 @@
 
 Este repositorio es nuestra pagina web de Dev's Mex, seguimos trabajando para tener un Web Funcional para nuestra comunidad, con el objetivo de migrar utilizando los Freamworks para desarrollo web llamados Django y React.
 
-## Visita nuestra Web Site: *[Devs Mex*](www.devsmex.me)
+## Visita nuestra Web Site: [Devs Mex](www.devsmex.me)
 
 Good Luck 🦖
 
