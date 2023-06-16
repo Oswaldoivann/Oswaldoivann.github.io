@@ -349,8 +349,8 @@ h1, h2, h3, h4, h5, h6 {
   background-attachment: fixed;
   position: relative;
   width: 100%;
-  background-color: #e6e6e6;
-  color: #fff;
+  /*background-color: #e6e6e6;
+  color: #fff;*/
 }
 #fh5co-home a {
   color: rgba(255, 255, 255, 0.8) !important;
